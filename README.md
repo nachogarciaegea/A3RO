@@ -1,7 +1,7 @@
-# A3RO
+# A3RO 
 Automated Recon & Research for RedTeam Ops
 
-# Features:
+# Features
 
 * [X] Works with Python3
 * [X] Scraps Censys.io / Shodan.io / Hunter.io / DNSDumpster results
