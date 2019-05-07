@@ -11,3 +11,9 @@ Automated Recon & Research for RedTeam Ops
 # Contact
 * @nachogarciaegea
 * www.securityiscoming.com
+
+# Authors & License
+* Author: Nacho Garcia Egea
+* License: Do whatever you want with it :)
+
+# Example
