@@ -9,9 +9,8 @@
 <p align="center">
 
   
-[![Maintenance](https://img.shields.io/maintenance/yes/2019.svg?style=flat-square)
+![Maintenance](https://img.shields.io/maintenance/yes/2019.svg?style=flat-square)
 [![GitHub last commit](https://img.shields.io/github/last-commit/olafhartong/ATTACKdatamap.svg?style=flat-square)](https://github.com/nachogarciaegea/A3RO/commit/master)
-[![Twitter](https://img.shields.io/twitter/follow/nachogarciaegea.svg?style=social&label=Follow)](https://twitter.com/nachogarciaegea)
 </p>
 
 # Features
@@ -22,7 +21,7 @@
 * [X] Automated search one click all sources
 
 # Contact
-* @nachogarciaegea
+* @nachogarciaegea [![Twitter](https://img.shields.io/twitter/follow/nachogarciaegea.svg?style=social&label=Follow)](https://twitter.com/nachogarciaegea)
 * www.securityiscoming.com
 
 # Authors & License
