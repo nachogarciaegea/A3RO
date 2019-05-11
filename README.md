@@ -1,3 +1,6 @@
+![Maintenance](https://img.shields.io/maintenance/yes/2019.svg?style=flat-square)
+[![GitHub last commit](https://img.shields.io/github/last-commit/olafhartong/ATTACKdatamap.svg?style=flat-square)](https://github.com/nachogarciaegea/A3RO/commit/master)
+[![Twitter](https://img.shields.io/twitter/follow/nachogarciaegea.svg?style=social&label=Follow)](https://twitter.com/nachogarciaegea)
 # A3RO 
 Automated Recon & Research for RedTeam Ops
 
