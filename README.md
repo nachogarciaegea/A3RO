@@ -1,5 +1,3 @@
-<a href="https://imgur.com/Rcmt8jt"><img src="https://i.imgur.com/Rcmt8jt.jpg" title="source: imgur.com" /></a>
-
 <h4>
  A3RO - Automated Recon & Research for RedTeam Ops
 </h4>
